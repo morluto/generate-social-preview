@@ -56,7 +56,7 @@ unavailable, the agent can still prepare the copy, reference choices, and a
 generation prompt.
 
 The optional normalization helper needs Bash and either macOS `sips` or
-ImageMagick's `magick` command.
+ImageMagick (`magick` in version 7, or `convert` in version 6).
 
 ## Use
 
